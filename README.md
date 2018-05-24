@@ -1,2 +1,2 @@
 # calculo_prodtuos_instaarts
-Classe (PHP) para fazer cálculos de produtos Instaarts.
+Classe recebe acabamento, tipo de moldura, altura, largura e retorna o preço.
